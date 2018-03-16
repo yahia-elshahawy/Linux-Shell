@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1507182250 source:/home/yahia/Desktop/CProjects/shell2/command_parser.c
+	"command_parser.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1507225266 /home/yahia/Desktop/CProjects/shell2/command_parser.h
+
+1506586412 source:/home/yahia/Desktop/CProjects/shell2/commands.c
+	"commands.h"
+
+1506586408 /home/yahia/Desktop/CProjects/shell2/commands.h
+
+1507700036 source:/home/yahia/Desktop/CProjects/shell2/environment.c
+	"environment.h"
+	"executer.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1507238592 /home/yahia/Desktop/CProjects/shell2/environment.h
+
+1507668410 source:/home/yahia/Desktop/CProjects/shell2/file_processing.c
+	"file_processing.h"
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507668242 /home/yahia/Desktop/CProjects/shell2/file_processing.h
+	<stdio.h>
+	<stdlib.h>
+
+1507700057 source:/home/yahia/Desktop/CProjects/shell2/variables.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"variables.h"
+	"environment.h"
+	"executer.h"
+
+1507321447 /home/yahia/Desktop/CProjects/shell2/variables.h
+
+1507666793 source:/home/yahia/Desktop/CProjects/shell2/command.c
+	"command.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	"variables.h"
+
+1506748009 /home/yahia/Desktop/CProjects/shell2/command.h
+
+1507709237 source:/home/yahia/Desktop/CProjects/shell2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<errno.h>
+	<string.h>
+	<signal.h>
+	"command.h"
+	"environment.h"
+	"command_parser.h"
+	"file_processing.h"
+	"variables.h"
+	"executer.h"
+
+1507701453 source:/home/yahia/Desktop/CProjects/shell2/executer.c
+	"executer.h"
+	"command.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+	<errno.h>
+
+1507436040 /home/yahia/Desktop/CProjects/shell2/executer.h
+

@@ -1,0 +1,462 @@
+Testing...
+ls
+Testing...
+help ya god3an
+Testing...ls
+Command>> ls
+Command>> ls&
+Command>> ls&
+Command>>  _____=dd
+Command>> exit
+Command>> ls&
+Command>> ls &
+Command>> ls&
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> gedit
+Command>> gedit
+Command>> gedit
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls &
+Command>> ls
+Command>> ls &
+Command>> ls &
+Command>> ls &
+Command>> ls &
+Command>> ls &
+Command>> ls &
+Command>> cd Desktop
+Command>> pwd
+Command>> cd Desktop/"ya sh"
+Command>> pwd
+Command>> cd
+Command>> pwd
+Command>> cd Desktop/"ye sh"
+Command>> pwd
+Command>> cd
+Command>> pwd
+Command>> x="ye sh"
+Command>> cd Desktop/$x
+Command>> pwd
+Command>> pwd
+Command>> cd ~yahia
+Command>> pwd
+Command>> cd ~yahia/Desktop
+Command>> pwd
+Command>> cd
+Command>> ls &
+Command>> echo adsad    
+Command>> echo asdasd djfhdkjshfk     hdfg
+Command>> echo      hsgadj jadhkjhf    ,a
+Command>> echo    sfgddf "  fsgf   fs "
+Command>> x="dsasda     dsa"
+Command>> echo asdas sd   $x
+Command>> ls&
+Command>> ls &
+Command>> ls &
+Command>> ls&
+Command>> ls&
+Command>> ls &
+Command>> ls
+Command>> ls
+Command>> ls &
+Command>> ls
+Command>> ls
+Command>> gedit
+Command>> ls
+Command>> gedit
+Command>> ls
+Command>> gedit
+Command>> ls
+Command>> ls
+Command>> ls &
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls -a -l
+Command>> ld
+Command>> ls
+Command>> cd
+Command>> echo $
+Command>> echo $
+Command>> x=6
+Command>> echo $x
+Command>> echo $
+Command>> x=jgjg
+Command>> echo $x
+Command>> echo s$3smdms
+Command>> echo S$Xsdksdk
+Command>> ls
+Command>> x=5
+Command>> echo $x
+Command>> ls $x
+Command>> echo &x
+Command>> echo $PATH
+Command>> echo $PATH
+Command>> echo $PATH
+Command>> echo $PATH
+Command>> echo $
+Command>> echo $
+Command>> echo $PATH
+Command>> echo $
+Command>> echo $
+Command>> echo $PATH
+Command>> x="-a -l"
+Command>> ls $x
+Command>> x="-a -l"
+Command>> echo $x
+Command>> x="-a -l"
+Command>> echo $x
+Command>> x="-a -l"
+Command>> echo $x
+Command>> x="-a -l"
+Command>> echo $x
+Command>> x="-a -l"
+Command>> ls $x
+Command>> echo $x
+Command>> x="-a -l"
+Command>> ls $x
+Command>> echo $x
+Command>> x="-a -l"
+Command>> echo $x
+Command>> ls $x
+Command>> ls -a -l
+Command>> x="-a -l"
+Command>> ls $x
+Command>> echo s$skdksdk
+Command>> echo s$3kksdksk
+Command>> echo "kssssssssssssssssss                   ksssssssssssssssS"
+Command>> x="-a                    				-l"
+Command>> ls $x
+Command>> echo $x
+Command>> echo $
+Command>> echo $kskd
+Command>> echo "ks                           lsd"
+Command>> echo $x
+Command>> x="-a              		-l"
+Command>> ls $x
+Command>> cd
+Command>> pwd
+Command>> cd ~
+Command>> pwd
+Command>> cd ~/yahia
+Command>> pwd
+Command>> cd ~/Desktop
+Command>> pwd
+Command>> x="ye sh"
+Command>> cd /home/yahia/Desktop/$x
+Command>> x="ye sh"
+Command>> cd /home/yahia/Desktop/$x
+Command>> echo $PROJECT
+Command>> cat $PROJECT/test.c
+Command>> PATH=5
+Command>> ls
+Command>> echo 5
+Command>> cd
+Command>> cd ~
+Command>> cd ~yahia
+Command>> cd ~/Desktop
+Command>> cd "ye sh"
+Command>> pwd
+Command>> HOME=5
+Command>> cd
+Command>> cd ~
+Command>> cd ~yahia
+Command>> cd ~/Desktop
+Command>> cd /home/yahia
+Command>> pwd
+Command>> cd $PROJECT
+Command>> PROJECT=6
+Command>> echo $PROJECT
+Command>> PROJECT=5
+Command>> ls
+Command>> ls -a -l
+Command>> history
+Command>> history
+Command>> history
+Command>> history
+Command>> ls
+Command>> Command>> Command>>    			
+Command>> cd
+Command>> Command>> Command>> Command>> Command>> Command>> Command>> vim
+Command>> ls
+Command>> ls jfjdj
+Command>> cd kskdksk kdskd skdks
+Command>> ls
+Command>> exit
+Command>> exit
+Command>> x=5
+Command>> cd ..
+Command>> pwd
+Command>> cd
+Command>> pwd
+Command>> cd
+Command>> cd ..
+Command>> cd /yahia/Desktop
+Command>> cd /yahia
+Command>> cd yahia
+Command>> cd Desktop
+Command>> cd
+Command>> cd ~
+Command>> cd ~yahia
+Command>> cd /home
+Command>> cd ..
+Command>> /bin/ls
+Command>> /bin/ls
+Command>> ls
+Command>> ls -al
+Command>> ls -a -l
+Command>> /bin/ls -l -a
+Command>>         /bin/ls     -l 
+Command>> vim
+Command>> Command>> Command>> gedit &
+Command>> ps #
+Command>> bin/ps #
+Command>> Command>> Command>> Command>> pwd
+Command>> mkdir cs333
+Command>> touch cs333/lab1.txt
+Command>> cd ~/cs333 
+Command>> #vi lab1.txt
+Command>> pwd
+Command>> cd ../
+Command>> cd ~
+Command>> exit
+Command>> Command>> Command>> Command>> Command>> ps
+Command>> /bin/ps
+Command>> bin/ps
+Command>> /bin/ls
+Command>> bin/ls
+Command>> /bin/ls
+Command>> bin/ls
+Command>> Command>> ls&
+Command>> ls
+Command>> gedit
+Command>> ls
+Command>> gedit
+Command>> gedit
+Command>> ls
+Command>> ls
+Command>> ls &
+Command>> ls
+Command>> gedit
+Command>> skdks
+Command>> gedit &
+Command>> gedit
+Command>> ls
+Command>> gedit
+Command>> jj
+Command>> kkk
+Command>> Command>> ls
+Command>> ls &
+Command>> ls
+Command>> gedit
+Command>> ls
+Command>> gedit
+Command>> nkjdkjf
+Command>> ls &
+Command>> ls -a
+Command>> ls
+Command>> gedit
+Command>> ls &
+Command>> gedit
+Command>> jsjd
+Command>> kdks
+Command>> ls
+Command>> ls
+Command>> gedit
+Command>> gedit&
+Command>> ls &
+Command>> ls
+Command>> cd ~/Desktop
+Command>> pwd
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> echo ~/Desktop
+Command>> 										
+Command>>                           				
+Command>> cd ..
+Command>> echo ~
+Command>> echo ~/Desktop
+Command>> echo /home/~~~~
+Command>> echo /home/~
+Command>> cd ~
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> echo mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> mv ~/Desktop/paths ~/Downloads/hell
+Command>> Command>> mv ~/Desktop/path ~/Desktop/h
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> char new_command[50][512] = {{0}};
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> mv ~/Desktop/path ~/Desktop/
+Command>> Command>> echo $PATH
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> cd
+Command>> pwd
+Command>> cd ~
+Command>> cd ~/Dektop
+Command>> cd ~/Desktop
+Command>> cd ~yahia
+Command>> cd "sh he"
+Command>> cd Desktop
+Command>> cd "ye sh"
+Command>> ls &
+Command>> ls&
+Command>> gedit
+Command>> Command>> ls&
+Command>> ls
+Command>> ls
+Command>> ls -al
+Command>> ls -a -l
+Command>> /bin/ls -l -a
+Command>>         /bin/ls     -l 
+Command>> vim
+Command>> Command>> Command>> gedit &
+Command>> ps #
+Command>> bin/ps #
+Command>> pwd
+Command>> mkdir cs333
+Command>> touch cs333/lab1.txt
+Command>> cd ~/cs333 
+Command>> #vi lab1.txt
+Command>> pwd
+Command>> cd ../
+Command>> cd ~
+Command>> exit
+Command>> Command>> Command>> Command>> Command>> ls
+Command>> ls -al
+Command>> ls -a -l
+Command>> /bin/ls -l -a
+Command>>         /bin/ls     -l 
+Command>> vim
+Command>> Command>> Command>> gedit &
+Command>> ps #
+Command>> bin/ps #
+Command>> pwd
+Command>> mkdir cs333
+Command>> touch cs333/lab1.txt
+Command>> cd ~/cs333 
+Command>> #vi lab1.txt
+Command>> pwd
+Command>> cd ../
+Command>> cd ~
+Command>> exit
+Command>> Command>> Command>> Command>> Command>> ls
+Command>> ls -al
+Command>> ls -a -l
+Command>> /bin/ls -l -a
+Command>>         /bin/ls     -l 
+Command>> vim
+Command>> Command>> Command>> gedit &
+Command>> ps #
+Command>> bin/ps #
+Command>> pwd
+Command>> mkdir cs333
+Command>> touch cs333/lab1.txt
+Command>> cd ~/cs333 
+Command>> #vi lab1.txt
+Command>> pwd
+Command>> cd ../
+Command>> cd ~
+Command>> exit
+Command>> Command>> Command>> Command>> Command>> ls
+Command>> ls -al
+Command>> ls -a -l
+Command>> /bin/ls -l -a
+Command>>         /bin/ls     -l 
+Command>> vim
+Command>> Command>> Command>> gedit &
+Command>> ps #
+Command>> bin/ps #
+Command>> pwd
+Command>> mkdir cs333
+Command>> touch cs333/lab1.txt
+Command>> cd ~/cs333 
+Command>> #vi lab1.txt
+Command>> pwd
+Command>> cd ../
+Command>> cd ~
+Command>> exit
+Command>> Command>> Command>> Command>> Command>> x="-a -l"
+Command>> ls $x
+Command>> echo "              yahia             sha              	"
+Command>> echo $PATH
+Command>> echo /path/$Project
+Command>> echo /path/$PROJECT
+Command>> echo s$3dkdkskd
+Command>> echo s$skdskdksk
+Command>> PATH = 5
+Command>> PATH=5
+Command>> echo $PATH
+Command>> ls
+Command>> echo ~
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> echo ~
+Command>> echo ~/yahia
+Command>> mv ~/Desktop/path ~/Destktop/l
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls
+Command>> ls -al
+Command>> ls -a -l
+Command>> /bin/ls -l -a
+Command>>         /bin/ls     -l 
+Command>> vim
+Command>> Command>> Command>> gedit &
+Command>> ps #
+Command>> bin/ps #
+Command>> pwd
+Command>> mkdir cs333
+Command>> touch cs333/lab1.txt
+Command>> cd ~/cs333 
+Command>> #vi lab1.txt
+Command>> pwd
+Command>> cd ../
+Command>> cd ~
+Command>> exit
+Command>> Command>> Command>> Command>> Command>> ls
+Command>> echo ~
+Command>> 
